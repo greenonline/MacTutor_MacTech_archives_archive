@@ -21,3 +21,5 @@ These are the original links
    - [Vol 1-17](https://macintoshgarden.org/apps/mactech-vol-1-17)
   
 See also, [MacTech/MacTutor archives](https://gr33nonline.wordpress.com/2024/08/09/mactech-mactutor-archives/)
+
+Note: Volumes 1-12 and 1-17 are larger than the 25 MB file size limit, and so can not be uploaded. Check in MacGarden or Repository instead.
