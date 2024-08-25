@@ -22,4 +22,11 @@ These are the original links
   
 See also, [MacTech/MacTutor archives](https://gr33nonline.wordpress.com/2024/08/09/mactech-mactutor-archives/)
 
-Note: Volumes 1-12 and 1-17 are larger than the 25 MB file size limit, and so can not be uploaded. Check in MacGarden or Repository instead.
+Note: Volumes 1-12 and 1-17 are *much* larger than the 25 MB file size limit (235 MB and 365 MB respectively), and so can not be uploaded to Github. Check in Macintosh Garden or Macintosh Repository instead.
+
+### Missing files no longer!
+
+Some articles of the [MacTech/MacTutor archive](https://preserve.mactech.com/articles/index.html) have missing code. This missing code can *hopefully* be found in the archive images. Examples of "refound code":
+
+ - [Tear-off Menus & Floating Palettes](https://preserve.mactech.com/articles/mactech/Vol.04/04.04/Tear-off,Floatmenus/index.html)
+   - Missing [PaletteWDEF.c](https://github.com/greenonline/MacTutor_MacTech_archives_archive/blob/main/Source_code_disks/%2331/PaletteWDEF%20Source/PaletteWDEF.c), in [disk #31](https://github.com/greenonline/MacTutor_MacTech_archives_archive/tree/main/Source_code_disks/%2331).
